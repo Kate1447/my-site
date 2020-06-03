@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: normal;
+}
+
+aside {
+  margin: 20px 0;
+  color: #c4c4c4;
+}
+
+a[href] {
+  color: #0099ef;
+  text-decoration-line: underline;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
+
+figcaption {
+  width: 502px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(202, 224, 248);
+}
+
+.pagination a {
+  display: inline-block;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+.pagination {
+  text-align: center;
+}
+.page-footer {
+  padding: 5px 0;
+  background-color: #e0f0fd;
+  text-align: center;
+}
+.subheading {
+  margin: 0 0 56px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 54px;
+  line-height: 47px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.subing {
+  margin: 0 0 56px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 32px;
+  line-height: 17px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.image-wrap {
+  text-align: center;
+}
+.page-header {
+  margin: 0 0 55px;
+  padding: 32px 0 32px;
+  background-color: #e0f0fd;
+}
+.sing {
+  margin: 0 0 55px;
+}
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
